@@ -1,4 +1,4 @@
-# Ramadan Pen
+# Smart Pen
 
 A real-time **Computer Vision–based virtual drawing application** that allows users to draw on the screen using their **index finger**.
 
@@ -141,10 +141,6 @@ The project demonstrates:
 ## Author
 
 **Murtaza Ansari**
-
-B.Tech CSE (AI & ML) Student
-
-Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Cybersecurity.
 
 ---
 
